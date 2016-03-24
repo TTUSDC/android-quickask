@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#CC0000</color>
-    <color name="colorPrimaryDark">#99281E</color>
-    <color name="colorAccent">#333333</color>
-    <color name="colorWhite">#FFFFFF</color>
+
+
+    <!--SDC Colors-->
+    <color name="sdc_dark_blue">#ff2b3e4c</color>
+    <color name="sdc_light_blue">#ff1fbec8</color>
+    <color name="sdc_light_green">#ff82c268</color>
+
+    <!--TTU Primary Palette-->
+    <color name="TTU_Red">#CC0000</color>
+    <color name="TTU_Black">#000000</color>
+
+    <!--TTU Supporting Palette-->
+    <color name="TTU_LightGray">#CCCCCC</color>
+    <color name="TTU_DarkGray">#333333</color>
+    <color name="TTU_Tan">#C4A97C</color>
+    <color name="TTU_Cream">#EAE0C6</color>
+    <color name="TTU_Blue">#899FB4</color>
+    <color name="TTU_DarkBlue">#003A66</color>
+    <color name="TTU_Green">#B0B37B</color>
+    <color name="TTU_DarkGreen">#4D5B2A</color>
+
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
 </resources>
