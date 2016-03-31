@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <!--Custom Colors-->
+    <color name="colorWhite">#FFFFFF</color>
+
 
     <!--SDC Colors-->
     <color name="sdc_dark_blue">#ff2b3e4c</color>
